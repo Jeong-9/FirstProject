@@ -1,4 +1,4 @@
-# FirstProject
+# C#과 Winform으로 만든 일정관리 프로그램
 
 ## 1. 프로젝트 개요
 WinForms와 MySQL을 기반으로 제작한 일정관리 프로그램입니다.  
