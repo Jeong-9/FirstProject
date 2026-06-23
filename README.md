@@ -25,7 +25,7 @@ WinForm과 MySQL 기반으로 
 -일정, 공유그룹, 사용자의 정보를 효율적으로 관리하기위한 데이터베이스
 ### GitHub
 -프로젝트 소스 코드 통합
-###Sourcetree
+### Sourcetree
 -복잡한 Git 명령어를 마우스 클릭만으로 처리할 수 있게 도와주는 도구
 
 ### 5.시스템 흐름도(Architecture)
@@ -47,7 +47,7 @@ WinForm과 MySQL 기반으로 
 *사용자는 본인만의 캘린더뿐만 아니라 공유 캘린더를 추가로 생성할 수 있음.
 추가할 멤버와 캘린더의 정보를 입력하고 이렇게 생성된 그룹 정보 역시 DB에 연동되어 캘린더 화면에 카테고리로 분류되어 나타남
 
-###📸스크린 샷(Screenshots)
+### 📸스크린 샷(Screenshots)
 - 캘린더 화면
   ****<img width="3192" height="1477" alt="image" src="https://github.com/user-attachments/assets/66851544-7a6b-4557-b5e8-4bb9f71d9427" />
 
@@ -90,9 +90,8 @@ WinForm과 MySQL 기반으로 
 - JoinMember  
   회원가입, 로그인, 아이디 찾기, 비밀번호 찾기, 비밀번호 변경 관련 기능 담당
 
-
 - UserSession  
   로그인한 사용자 정보를 프로그램 전역에서 유지
 
-  ## 시연 영상
+## 시연 영상
 https://youtu.be/QPl6Y-iZQ0Q
