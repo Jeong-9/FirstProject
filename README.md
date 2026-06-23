@@ -55,16 +55,23 @@ WinForm과 MySQL 기반으로 
 <img width="802" height="450" alt="image" src="https://github.com/user-attachments/assets/7c6142ee-b743-4cc4-9f97-bee0a3f4337e" />
 
 - 회원가입
+  
   <img width="537" height="696" alt="image" src="https://github.com/user-attachments/assets/60b1cf31-d873-41f2-8033-2e63536a6a1d" />
 
 - 아이디 찾기
+  
   <img width="800" height="449" alt="image" src="https://github.com/user-attachments/assets/8fd331e1-dda2-49b1-8157-f7acd82c8705" />
 
-- 비밀번호 찾기(임시 비밀번호 발송)
+- 비밀번호 찾기
+  
 <img width="796" height="455" alt="image" src="https://github.com/user-attachments/assets/94ac80dd-67c9-4256-8dac-8edc719f249c" />
+
+- 임시 비밀번호 발송
+  
 <img width="1079" height="833" alt="image" src="https://github.com/user-attachments/assets/3562f4dc-cbfe-49a1-8800-6a606afbd627" />
 
 - 비밀번호 변경
+  
 <img width="1342" height="800" alt="image" src="https://github.com/user-attachments/assets/e9095aa7-515d-46e2-99e4-64e15a5748bc" />
 
 ## 6. 주요 담당 기능
